@@ -25,7 +25,6 @@
             <th>Stok</th>
             <th>Supplier</th>
             <th>Kategori</th>
-            <th>Aksi</th>
         </tr>
     </div>
  </thead>
@@ -37,7 +36,6 @@
         <td>50.000</td>
         <td>10</td>
         <td>Mediatek</td>
-        <td>Atk</td>
         <td>
 
             <a href="#" class="btn btn-warning btn-sm"><i class="fa fa-edit"></i><a>

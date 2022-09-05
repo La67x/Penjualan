@@ -33,10 +33,10 @@
 
     <tr>
         <td>1</td>
-        <td>Kursi</td>
+        <td>Agus</td>
         <td>50.000</td>
         <td>10</td>
-        <td>Mediatek</td>
+        <td>Agus</td>
         <td>Atk</td>
 
         <td>

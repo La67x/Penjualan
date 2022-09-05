@@ -22,10 +22,6 @@
             <th>No.</th>
             <th>Nama</th>
             <th>Harga</th>
-            <th>Stok</th>
-            <th>Supplier</th>
-            <th>Kategori</th>
-            <th>Aksi</th>
         </tr>
     </div>
  </thead>
@@ -34,10 +30,6 @@
     <tr>
         <td>1</td>
         <td>Kursi</td>
-        <td>50.000</td>
-        <td>10</td>
-        <td>Mediatek</td>
-        <td>Atk</td>
         <td>
 
             <a href="#" class="btn btn-warning btn-sm"><i class="fa fa-edit"></i><a>           
